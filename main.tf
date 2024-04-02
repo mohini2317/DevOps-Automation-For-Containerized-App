@@ -280,5 +280,5 @@ EOF
 }
 
 data "aws_kms_alias" "s3kmskey" {
-  name = "alias/flask_app_s3kmskey"
+  name = "alias/flask_app_s3kmskey1"
 }
